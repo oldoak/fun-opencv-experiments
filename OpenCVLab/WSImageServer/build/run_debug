@@ -1,0 +1,2 @@
+#!/bin/ksh
+build_project_debug WSImageServer.lua ${HOME}/build/WSImageServer/bin/Debug/WSImageServer_g

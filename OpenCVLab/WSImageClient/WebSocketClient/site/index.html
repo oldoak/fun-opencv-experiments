@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/oldoak.css">
+    <script src="js/wsclient.js"></script>
+</head>
+
+<body>
+    <header>
+        <title>OldOak</title>
+        <p class="rule">
+            <img src="images/oaktree.jpg" alt="Oak Tree" class="rule">
+        </p>
+    </header>
+
+    <aside>
+        <p class="rule"><h3 align="center">OldOak</h3></p>
+    </aside>
+
+    <div class="imageprocessing">
+        <h2>Load an image</h2>
+        <input type="file" id="inputfile" class = "fileselect" 
+            onchange="main(event)">
+        </input>
+        <label for="inputfile">Choose a file</label>
+
+    <div id="inputimage">
+        <canvas id="myCanvas"></canvas>
+        <h2 id="name"></h2>
+        <p id="size"></p>
+        <p id="type"></p>
+    </div>
+    <div id="outputimage">
+        <img id="output"></img>
+    </div>
+    </div>
+
+    <footer>
+    </footer>
+
+</body>
+</html>

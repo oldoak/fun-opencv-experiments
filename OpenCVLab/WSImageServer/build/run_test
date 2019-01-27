@@ -1,0 +1,2 @@
+#!/bin/ksh
+build_project_test WSImageServerTest.lua ${HOME}/build/WSImageServer/bin/Test/WSImageServerTest
