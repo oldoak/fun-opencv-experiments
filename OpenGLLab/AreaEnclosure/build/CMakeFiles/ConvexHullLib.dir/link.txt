@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libConvexHullLib.so -o ../bin/Debug/libConvexHullLib.so CMakeFiles/ConvexHullLib.dir/src/ConvexHull.cpp.o 

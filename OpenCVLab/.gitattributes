@@ -1,0 +1,2 @@
+*.lua linguist-language=cpp
+*.C linguist-language=cpp

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oldoak/Development/github/OpenGLLab/PathFinding/src/MyTest.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
