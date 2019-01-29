@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/MyTest.dir/src/MyTest.c.o  -o /home/oldoak/Development/bin/ConvexHull/Debug/MyTest 

@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/ConvexHull.dir/src/TestConvexHull.c.o  -o /home/oldoak/Development/bin/ConvexHull/Debug/ConvexHull /usr/lib/x86_64-linux-gnu/libGL.so -lGLEW -lglfw -lfreetype 
