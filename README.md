@@ -1,6 +1,6 @@
 # ImageProcessing
 
-**Task list [wiki]** for whenever I get back to this.  Last update December 2017.
+**Last update December 2017.
 
 ## PixelIntensity
 
